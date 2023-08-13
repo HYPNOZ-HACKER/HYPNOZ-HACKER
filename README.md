@@ -1,3 +1,4 @@
+![logo](https://github.com/HYPNOZ-HACKER/HYPNOZ-HACKER/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm SHUBHAM CHOUDHARY</h1>
 <h3 align="center">A passionate ethical hacker & programmer from India</h3>
 
