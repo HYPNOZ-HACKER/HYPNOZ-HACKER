@@ -1,4 +1,3 @@
-<center>
 ![logo](https://github.com/HYPNOZ-HACKER/HYPNOZ-HACKER/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm SHUBHAM CHOUDHARY</h1>
 <h3 align="center">A passionate ethical hacker & programmer from India</h3>
@@ -45,4 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypnoz-hacker&show_icons=true&locale=en" alt="hypnoz-hacker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hypnoz-hacker&" alt="hypnoz-hacker" /></p>
-</center>
